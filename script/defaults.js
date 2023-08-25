@@ -36,14 +36,16 @@ llab.fragments.hamburger = '<span class="sr-only">Toggle navigation</span><span 
 llab.CORSproxy = "https://cors.io/";
 
 llab.CORSCompliantServers = [];
-llab.CORSCompliantServers.push("cs10.org");
-llab.CORSCompliantServers.push("bjc.berkeley.edu");
-llab.CORSCompliantServers.push("bjc.eecs.berkeley.edu");
-llab.CORSCompliantServers.push("snap.berkeley.edu");
-llab.CORSCompliantServers.push("inst.eecs.berkeley.edu");
-llab.CORSCompliantServers.push("cs10.berkeley.edu");
-llab.CORSCompliantServers.push("beautyjoy.github.io");
-llab.CORSCompliantServers.push("cs10.github.io");
+llab.CORSCompliantServers.push("ransomts.github.io");
+
+// llab.CORSCompliantServers.push("cs10.org");
+// llab.CORSCompliantServers.push("bjc.berkeley.edu");
+// llab.CORSCompliantServers.push("bjc.eecs.berkeley.edu");
+// llab.CORSCompliantServers.push("snap.berkeley.edu");
+// llab.CORSCompliantServers.push("inst.eecs.berkeley.edu");
+// llab.CORSCompliantServers.push("cs10.berkeley.edu");
+// llab.CORSCompliantServers.push("beautyjoy.github.io");
+// llab.CORSCompliantServers.push("cs10.github.io");
 llab.CORSCompliantServers.push("localhost");
 llab.CORSCompliantServers.push("0.0.0.0");
 
